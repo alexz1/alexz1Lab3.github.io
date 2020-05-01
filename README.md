@@ -6,7 +6,7 @@
   <body>
 
 <img src="PreviewPicture.JPG" alt="Airport Maps">
-<a href ="">Here is my interative project link</a>
+<a href ="https://alexz1.github.io/choropleth-map/lab03/map6Assignment.html">Here is my interative project link</a>
 
 <h6> The project that I did in this lab was to create a map of airports in the United States. As the darker the shade of purple is, the more airports each states has. While the two different airplane icons represents airports with and without air traffic control towers. </h6>
 
